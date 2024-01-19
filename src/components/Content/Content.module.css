@@ -1,0 +1,27 @@
+.container{
+    background-color: #FFDD95;
+    margin: 10em 8em;
+    padding: 2em;
+}
+
+.container section{
+    padding: 5em 0;
+}
+
+h3{
+    font-family: 'Roboto';
+    font-size: 32px;
+    margin: 0;
+    color: white;
+}
+
+h5{
+    font-size: 20px;
+    margin: 0;
+    font-weight: 600;
+}
+
+p{
+    margin: 2em 0;
+    font-size: 16px;
+}

@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 6em;
+    width: 100%;
+    padding: 24px;
+    box-sizing: border-box;
+    background-color: #FFFFEC;
+}
+
+.container img{
+    width: 5em;
+}
+
+.container a{
+    padding: 32px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    transition: color 0.3s ease-in-out;
+}
+
+.container a:hover{
+    color: #FF9843;
+}

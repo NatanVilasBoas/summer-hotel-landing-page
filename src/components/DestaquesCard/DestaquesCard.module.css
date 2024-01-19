@@ -1,3 +1,11 @@
 div img, .card-img-top{
     height: 30em;
 }
+
+.cardBack{
+    background-color: #FFDD95;
+}
+
+.card{
+    border: none;
+}

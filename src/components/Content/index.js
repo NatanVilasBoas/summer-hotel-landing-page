@@ -1,4 +1,5 @@
 import Acomodacoes from '../Acomodacoes';
+import Contato from '../Contato';
 import Destaques from '../Destaques';
 import Equipe from '../Equipe';
 import Inicio from '../Inicio';
@@ -11,6 +12,7 @@ function Content() {
             <Destaques />
             <Acomodacoes />
             <Equipe />
+            <Contato />
         </section>
     )
 }

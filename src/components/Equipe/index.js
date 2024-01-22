@@ -1,10 +1,9 @@
 import EquipeCard from '../EquipeCard';
-import styles from './Equipe.module.css'
 
 
 function Equipe() {
     return(
-        <section className={styles.container}>
+        <section>
             <h3 id='equipe'>Equipe</h3>
             <h5>Conheça nossa equipe</h5>
             <p>Na equipe do Paraíso Tropical Resort, estamos dedicados a tornar a sua estadia verdadeiramente excepcional. Com uma equipe diversificada e experiente, cada membro é apaixonado por proporcionar um serviço de classe mundial e garantir que todos os detalhes da sua experiência conosco sejam impecáveis.</p>

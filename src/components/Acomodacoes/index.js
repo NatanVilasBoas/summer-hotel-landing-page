@@ -7,10 +7,9 @@ import room3 from './room3.jpg';
 function Acomodacoes() {
     return(
         <section className={styles.container}>
-            <hr />
             <h3 id='acomodacoes'>Acomodações</h3>
             <h5>Nossos quartos disponíveis</h5>
-            <p>Nossas melhores opções de quartos de luxo, com opções para qualquer gosto</p>
+            <p>Desfrute de acomodações elegantes e espaçosas que foram projetadas para proporcionar o máximo conforto. Desde suítes à beira-mar até vilas privativas, cada espaço é cuidadosamente decorado para refletir o charme tropical do nosso paraíso.</p>
             <div className={styles.cardGroup}>
                 <AcomodacoesCard src={room1} 
                 title='Suíte Deluxe'

@@ -9,3 +9,12 @@
 .cardImg{
     height: 30em;
 }
+
+.cardTitle{
+    color: white;
+    font-size: 26px;
+}
+
+.cardText{
+    font-size: 16px;
+}

@@ -10,7 +10,7 @@ function Header() {
                     <a href='#inicio'>Início</a>
                     <a href='#destaques'>Destaques</a>
                     <a href='#acomodacoes'>Acomodações</a>
-                    <a href='#atividades'>Atividades</a>
+                    <a href='#equipe'>Equipe</a>
                     <a href='#contato'>Contato</a>
                 </div>
                 <img src={logo} />

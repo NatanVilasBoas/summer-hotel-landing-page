@@ -38,7 +38,7 @@ function Header() {
                                 <li><a className='dropwdown-item' href='#contato'>Contato</a></li>
                             </ul>
                         </div>
-                        <img src={logo} />
+                        <img src={logo} alt='logo' />
                     </section>
                 )
                 :
@@ -51,7 +51,7 @@ function Header() {
                             <a href='#equipe'>Equipe</a>
                             <a href='#contato'>Contato</a>
                         </div>
-                        <img src={logo} />
+                        <img src={logo} alt='logo' />
                     </section>
                 )
             }

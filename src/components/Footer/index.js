@@ -9,7 +9,7 @@ function Footer() {
                 <p>Copyright &copy; Natan Vilas Boas - 2024</p>
             </div>
             <div className={styles.image}>
-                <img src={logo}/>
+                <img src={logo} alt='logo'/>
             </div>
         </section>
     )

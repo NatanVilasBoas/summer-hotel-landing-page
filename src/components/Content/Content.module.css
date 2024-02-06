@@ -27,3 +27,9 @@ p{
     margin: 2em 0;
     font-size: 16px;
 }
+
+@media(max-width: 768px){
+    .container{
+        margin: 1em;
+    }
+}

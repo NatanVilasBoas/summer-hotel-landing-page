@@ -13,6 +13,16 @@
     width: 5em;
 }
 
+.container button{
+    background-color: #FFDD95;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.container button:hover, .container button:active, .container button:focus{
+    background-color: #fe9137;
+    border-color: transparent;
+}
+
 .container a{
     padding: 32px;
     text-decoration: none;
@@ -24,4 +34,14 @@
 
 .container a:hover{
     color: #FF9843;
+}
+
+@media(max-width: 768px){
+    .container img{
+        display: none;
+    }
+
+    .container a{
+        padding: 0 32px;
+    }
 }

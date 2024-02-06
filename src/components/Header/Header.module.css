@@ -37,10 +37,6 @@
 }
 
 @media(max-width: 768px){
-    .container img{
-        display: none;
-    }
-
     .container a{
         padding: 0 32px;
     }
